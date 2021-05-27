@@ -6,8 +6,18 @@
 .green {
     color: #14a800 !important;
 }
-
-.clien_pic {
-    background-image: url('https://images.unsplash.com/photo-1531539134685-27d854339120?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xpZW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+.clients{
+    background-image: url('https://image.shutterstock.com/image-photo/meeting-business-people-600w-519699358.jpg');
+    background-position: top;
     background-size: cover;
+    border-radius: 9px;
+}
+.myCard{
+    background-color: #14a800;
+    color: white;
+    border-radius: 9px;
+}
+.myCard:hover{
+    background-color: white;
+    color: #14a800;
 }
