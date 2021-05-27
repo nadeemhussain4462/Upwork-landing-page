@@ -2,6 +2,12 @@
     font-family: 'Bree Serif', serif;
     font-size: 4rem;
 }
-.green{
- color: #14a800 !important;
+
+.green {
+    color: #14a800 !important;
+}
+
+.clien_pic {
+    background-image: url('https://images.unsplash.com/photo-1531539134685-27d854339120?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xpZW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    background-size: cover;
 }
