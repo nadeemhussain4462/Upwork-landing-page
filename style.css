@@ -6,49 +6,60 @@
 .bg-green {
     background-color: #14a800;
 }
-.green{
+
+.green {
     color: #14a800;
 }
-.clients{
-    background-image: url('https://image.shutterstock.com/image-photo/meeting-business-people-600w-519699358.jpg');
+
+.clients {
+    background-image: url('https://www.thebalancecareers.com/thmb/8GdKUPs01vNgln8cHtRSTa9Upk0=/2189x1369/filters:fill(auto,1)/GettyImages-978531556-5c6c4d5dc9e77c0001693068.jpg');
     background-position: top;
     background-size: cover;
+    background-repeat: no-repeat;
     border-radius: 9px;
 }
-.myCard{
+
+.myCard {
     background-color: #14a800;
     color: white;
     border-radius: 9px;
 }
-.myCard:hover{
+
+.myCard:hover {
     background-color: white;
     color: #14a800;
 }
-.redeus{
-    border-radius: 10px;   
+
+.redeus {
+    border-radius: 10px;
 }
-.hire_pro{
+
+.hire_pro {
     list-style: none;
-    
 }
-.hire_pro li{
+
+.hire_pro li {
     padding: 0;
     font-size: 2.1rem;
 }
-a{
+
+a {
     text-decoration: none;
     padding: 10px 0px;
     font-weight: 600;
     color: lightgray;
 }
-.hire_pro a:hover{
+
+.hire_pro a:hover {
     color: #14a800;
 }
-.hire_hed{
+
+.hire_hed {
     font-family: 'Bree Serif', serif;
     font-size: 3.5rem;
 }
-.mini_link a{
+
+.mini_link a {
     text-decoration: none;
     color: gray;
     padding: 6px;
@@ -59,12 +70,11 @@ a{
     border-radius: 50px;
     margin: 5px;
 }
-.mini_link :hover{
+
+.mini_link :hover {
     background-color: lightgrey;
 }
-.grid{
-    display: grid;
-}
-.grid-item{
-    /* display: inline-grid; */
+
+.lines {
+    line-height: 0px;
 }
