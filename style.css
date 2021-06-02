@@ -3,8 +3,11 @@
     font-size: 4rem;
 }
 
-.green {
-    color: #14a800 !important;
+.bg-green {
+    background-color: #14a800;
+}
+.green{
+    color: #14a800;
 }
 .clients{
     background-image: url('https://image.shutterstock.com/image-photo/meeting-business-people-600w-519699358.jpg');
@@ -59,5 +62,9 @@ a{
 .mini_link :hover{
     background-color: lightgrey;
 }
-.g_pick{
+.grid{
+    display: grid;
+}
+.grid-item{
+    /* display: inline-grid; */
 }
